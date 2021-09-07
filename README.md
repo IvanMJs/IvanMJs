@@ -2,7 +2,7 @@
 
 I am a Frontend developer, I currently work with Angular but I also love React ♥..
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png
 
 
 ### What i'm up to
