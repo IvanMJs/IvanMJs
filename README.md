@@ -12,7 +12,7 @@ I am a Frontend developer, I currently work with Angular but I also love React �
 :email: ivanmeyer1991@gmail.com
 ---
 ### What i'm up to
-- 🔭 I’m currently working on @[Prokarma](https://pkglobal.com.ar/)
+- 🔭 I’m currently working on @[Concentrix](https://www.concentrix.com/)
 - ⚡ I’m currently working on Angular
 - 🌱 I’m currently learning React, Angular and more Javascript♥
 
