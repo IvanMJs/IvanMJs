@@ -17,4 +17,6 @@ I am a Frontend developer, I currently work with React ♥.
 - 🌱 I’m currently learning React and Javascript♥
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMJs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMJs)](https://github.com/IvanMJs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMJs&layout=compact)](https://github.com/IvanMJs/github-readme-stats)
